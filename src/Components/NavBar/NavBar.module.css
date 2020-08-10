@@ -1,0 +1,19 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    transition: all 0.5s ease-in;
+}
+.navBlack{
+    background: #111111;
+}
+.netflix{
+    height: 30px;
+    padding: 15px 20px;
+}
+.user{
+    height: 30px;
+    padding: 15px 20px;
+}
